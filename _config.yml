@@ -1,19 +1,4 @@
-name: Form Language
-favicon: null
-layout_spectrum: 0.05203065602108836
 typography_spectrum: 0.009117587236687541
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,19 @@ color:
   lightness: 0.567444359883666
   saturation: 0.08369789365679026
   rhythmicContrast: 0.16720444639213383
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.05203065602108836
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Form Language
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
